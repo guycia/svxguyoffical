@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
 
-  const startMessage = "Click Here";
+  const startMessage = "Just Click";
   let startTextContent = '';
   let startIndex = 0;
   let startCursorVisible = true;
